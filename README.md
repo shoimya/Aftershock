@@ -23,7 +23,7 @@
   </tr>
 </table>
 
-**Research notebook:** [`aftershock_v1.ipynb`](aftershock_v1.ipynb)
+**Research notebook:** [Notebooks](https://github.com/shoimya/Aftershock/tree/main/Notebooks)
 
 ## Abstract
 
